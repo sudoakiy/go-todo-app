@@ -1,6 +1,6 @@
 module github.com/example/go-todo-app
 
-go 1.23.8
+go 1.23
 
 require (
 	github.com/labstack/echo/v4 v4.11.1
